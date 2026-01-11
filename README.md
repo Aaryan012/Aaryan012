@@ -35,7 +35,7 @@ I love working on **Computer Vision, NLP, Data Science, and Real-time AI applica
 ---
 
 ## ⚡ GitHub Stats
-![Aaryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AARYAN-KHADKA&show_icons=true&theme=radical)
+![Aaryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryan012&show_icons=true&theme=radical)
 
 ---
 
